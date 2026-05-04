@@ -1,2 +1,2 @@
 # huggingface_audio
-Hands-on exercises from HuggingFace Transformers Audio Course
+Hands-on exercises from Hugging Face Transformers Audio Course
